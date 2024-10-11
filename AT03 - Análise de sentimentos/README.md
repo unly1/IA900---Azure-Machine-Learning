@@ -1,7 +1,7 @@
 # Analise de Sentimentos
 ## Analyze sentiment and mine opinions
 
-Por meio desse recurso, a Inteligência Artificial analisa textos para descobrir os sentimentos e a satisfação do usuário que os escreveu, além de identificar as principais opiniões expressas
+Por meio desse recurso, a Inteligência Artificial analisa textos para descobrir os sentimentos e a satisfação do usuário que os escreveu, além de identificar as principais opiniões expressas.
 
 ### Na Guia "Classify Text" selecione a opção Analyze sentiment and mine opinions
 
